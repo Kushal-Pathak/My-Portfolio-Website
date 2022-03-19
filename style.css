@@ -1,0 +1,29 @@
+.my-pic{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+body{
+    background-color: black;
+}
+
+.contents{
+    color: white;
+}
+
+hr{
+    background-color: white;
+}
+
+#skills ul li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.foot{
+    color: darkgray;
+}
